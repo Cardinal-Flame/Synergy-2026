@@ -1,0 +1,17 @@
+{
+  "crop": "tomato",
+  "quantity_kg": 100,
+  "markets": [
+    {
+      "market_id": "m1",
+      "market_name": "Mandi A",
+      "quoted_price_per_kg": 22,
+      "quote_source": "simulated",
+      "quote_timestamp": "2026-10-14T02:00:00Z",
+      "transport_cost_total": 100,
+      "loading_cost_total": 50,
+      "unloading_cost_total": 50
+    }
+  ],
+  "freshness_threshold_hours": 4
+}
