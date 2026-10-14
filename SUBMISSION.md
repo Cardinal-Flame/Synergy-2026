@@ -475,6 +475,8 @@ None used in V1. All claims derive from competition case file (simulated).
 | `docs/04-executive-summary.md` | 1-page overview |
 | `specs/01-solution-srs.md` | SRS, data model, implementation plan |
 | `specs/02-ai-human-model.md` | AI/human boundary, rules, model card |
+| `specs/03-basic-srs-implementation-plan.md` | Consolidated basic SRS, FR/NFR, failure handling, V1 plan |
+| `specs/Basic_SRS_Implementation_Plan.pdf` | PDF export of `specs/03` (rendered workflow diagram) |
 | `tests/acceptance-tests.md` | AT-01–06, fixtures, evaluation |
 | `tests/evaluation-plan.md` | Evaluation protocol |
 | `tests/fixtures/at0*.json` | 6 test fixtures (simulated) |

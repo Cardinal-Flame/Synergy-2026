@@ -40,6 +40,8 @@
 | `docs/03-problem-statement.md` | Final scoped problem, users, objectives, success criteria |
 | `specs/01-solution-srs.md` | Solution concept, SRS (FR/NFR), implementation plan, data strategy |
 | `specs/02-ai-human-model.md` | Responsibility separation, decision boundary, AI rules, connectivity strategy |
+| `specs/03-basic-srs-implementation-plan.md` | Consolidated basic SRS: inputs/outputs, workflow, FR-01–10, NFR-01–09, FH-01–10, V1 plan |
+| `specs/Basic_SRS_Implementation_Plan.pdf` | PDF export of `specs/03` with rendered workflow diagram |
 | `tests/acceptance-tests.md` | AT-01 to AT-06 definitions, fixtures, evaluation plan |
 | `ai-trail/interactions.md` | 8 genuine AI interactions (AI-01 to AI-08) |
 | `ai-trail/decision-index.md` | 8 decisions mapped to interactions & evidence |
@@ -52,7 +54,7 @@
 | Compare plausible problem framings | Case file Round 1 output | `docs/01-problem-framing.md` |
 | Select specific problem, justify with evidence | Case file Round 1 output | `docs/03-problem-statement.md` |
 | Propose feasible solution | Case file Round 1 output | `specs/01-solution-srs.md` |
-| Define SRS & implementation plan | Case file Round 1 output | `specs/01-solution-srs.md` |
+| Define SRS & implementation plan | Case file Round 1 output | `specs/01-solution-srs.md`, `specs/03-basic-srs-implementation-plan.md` |
 | Preserve AI reasoning trail | Case file final checklist | `ai-trail/interactions.md`, `ai-trail/decision-index.md` |
 | Separate AI/human responsibilities | Case file final checklist | `specs/02-ai-human-model.md` |
 | ≥3 acceptance tests | Case file final checklist | `tests/acceptance-tests.md` |

@@ -47,7 +47,9 @@ A transparent, deterministic net-proceeds comparison tool that:
 │   └── 04-executive-summary.md      # 1-page overview
 ├── specs/
 │   ├── 01-solution-srs.md           # Solution concept, SRS, implementation plan
-│   └── 02-ai-human-model.md         # AI/human responsibility separation
+│   ├── 02-ai-human-model.md         # AI/human responsibility separation
+│   ├── 03-basic-srs-implementation-plan.md  # Consolidated basic SRS & V1 plan
+│   └── Basic_SRS_Implementation_Plan.pdf    # PDF export of specs/03
 ├── tests/
 │   ├── acceptance-tests.md          # AT-01 to AT-06 definitions
 │   ├── evaluation-plan.md           # Evaluation protocol
